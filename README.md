@@ -1,2 +1,0 @@
-# Proximity
-uses proximity sensor
